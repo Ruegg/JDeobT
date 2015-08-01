@@ -66,7 +66,7 @@ public class JDeobT {
 			if(args[0].equalsIgnoreCase("help")){
 				execHelp();
 			}else if(args[0].equalsIgnoreCase("v")){
-				System.out.println("JDeobT V. 1.1.2");
+				System.out.println("JDeobT V. 1.1.3");
 				System.out.println("Dv. MasterBugPatch");
 				System.out.println("� ByteStructure 2015");
 			}else{
