@@ -28,4 +28,4 @@ Available transformers are ZKM and Allatori
 <b>Dependencies</b>
 
 
-Optional: jad.exe - Needed for string deobfuscating jars and classes
+Optional: (jad.exe | jad.exec | jad )- Needed for string deobfuscating jars and classes
